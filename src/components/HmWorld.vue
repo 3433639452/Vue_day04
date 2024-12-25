@@ -2,6 +2,7 @@
 <!-- 结构 -->
   <div id='app'>
       <button>按钮</button>
+      <button></button>
   </div>
 </template>
 
